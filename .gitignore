@@ -1,0 +1,9 @@
+# Ignore Python virtual environment
+doughnutenv/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore data and figure folders
+data/
+figures/
